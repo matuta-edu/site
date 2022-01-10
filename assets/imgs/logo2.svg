@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="83.0774mm"
+   height="39.67057mm"
+   viewBox="0 0 83.077401 39.67057"
+   version="1.1"
+   id="svg2252"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   sodipodi:docname="logo2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview2254"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.48106061"
+     inkscape:cx="-271.27559"
+     inkscape:cy="16.629921"
+     inkscape:window-width="1440"
+     inkscape:window-height="762"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g23-2" />
+  <defs
+     id="defs2249">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath27-9">
+      <path
+         d="M 0,0 H 1920 V 1080 H 0 Z"
+         id="path25-8" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(17.832596,-176.86346)">
+    <g
+       id="g15-6"
+       inkscape:label="matuta_app 01-3"
+       transform="matrix(0.2337426,0,0,-0.2337426,-251.48247,322.15931)"
+       inkscape:export-filename="/Users/julianag/matuta.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96">
+      <g
+         id="g17-5"
+         transform="translate(1135.8623,563.6252)">
+        <path
+           d="m 0,0 h -43.629 l 30.85,30.851 -14.352,14.351 -30.85,-30.85 V 57.981 H -78.277 V 14.352 L -109.129,45.202 -123.48,30.851 -92.63,0 h -43.629 v -20.297 h 43.629 l -30.85,-30.85 14.351,-14.352 30.852,30.85 v -43.629 h 20.296 v 43.629 l 30.85,-30.85 14.352,14.352 -30.85,30.85 H 0 Z"
+           style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           id="path19-7" />
+      </g>
+      <g
+         id="g21-6">
+        <g
+           id="g23-2"
+           clip-path="url(#clipPath27-9)" />
+      </g>
+      <text
+         transform="matrix(1,0,0,-1,1136.019,489.8941)"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.5007px;font-family:'Sofia Pro Medium';-inkscape-font-specification:SofiaPro-Medium;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text55-5"><tspan
+           x="0 15.876353 36.099804 56.291752 81.555313 101.43225 119.79401 136.58388 161.84744 181.7244 191.1431 216.24916"
+           y="0"
+           sodipodi:role="line"
+           id="tspan53-8">LABORATÓRIO</tspan></text>
+      <text
+         transform="matrix(1,0,0,-1,1136.019,458.3934)"
+         style="font-variant:normal;font-weight:500;font-stretch:normal;font-size:31.5007px;font-family:'Sofia Pro Medium';-inkscape-font-specification:SofiaPro-Medium;writing-mode:lr-tb;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="text59-1"><tspan
+           x="0 23.090014 41.076912 49.078091 67.222496 90.312508 111.98499 134.09848 153.97542 176.08891 195.96585"
+           y="0"
+           sodipodi:role="line"
+           id="tspan57-4">DE EDUCAÇÃO</tspan></text>
+    </g>
+  </g>
+</svg>
