@@ -1,6 +1,6 @@
 ---
-id: contact
-name: Contact
+id: Contato
+name: Contato
 heading: The Third Heading
 subheading: Will Seal the Deal.
 image: "assets/imgs/programa-cursos.svg"
