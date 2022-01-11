@@ -1,6 +1,6 @@
 ---
-id: services
-name: Services
+id: Curso1
+name: Curso1
 heading: EXPANSÃO, AUTORIA DE SI E JUVENTUDE
 subheading: 
 image: "assets/imgs/programa-expansao.svg"
