@@ -1,11 +1,12 @@
 ---
 id: about
 name: Laboratório
-heading: Laboratório de Educação
+heading: LABORATÓRIO DE EDUCAÇÃO
 subheading: 
 
 ---
 
+⠀
 
 **MATUTA** pensa e repensa o mundo a partir da educação. Como laboratório de educação, é um lugar provido de recursos e interações adequadas para a produção, aplicação e divulgação de conhecimento; 
 

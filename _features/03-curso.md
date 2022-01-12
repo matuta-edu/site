@@ -6,13 +6,36 @@ subheading:
 image: "assets/imgs/programa-cursos.svg"
 ---
 
-Neste programa, **MATUTA** convida especialistas de diversas áreas para contribuir com os assuntos pertinentes à educação. Os especialistas serão preparados para abordar assuntos prementes da práxis do laboratório, podendo propor atividades que corroborem para elucidar questões e os desafios surgidos na atuação dos educadores, sempre com o intuito de enriquecer o debate. O ambiente será descontraído para que as dúvidas, angústias, verificações dos participantes possam ser debatidas com o especialista.
+Neste programa, **MATUTA** convida especialistas e oferece debates e cursos livres em diversas áreas que contribuiem nas práticas educativas:
 
-- Periodicidade: 1 vez por mês
-- Modalidade: Presencial
-- Investimento:
-    - R$ 20,00 cada encontro
-    - R$ 60,00 pacote com 4 encontros. 
-    - R$ 350 por especialista
+⠀
 
-*(+ espaço, mobiliário, equipamento, cafezinho registro em vídeo registro em vídeo, transmissão?)*
+**EXPECTATIVAS E MÉTODOS NA EDUCAÇÃO** Curso livre
+A ideia do curso é desvendar modelos, métodos, didáticas para discutirmos possibilidades de organização do ensino-aprendizagem, e não para se especializar.
+
+O programa e os encontros são estruturados de forma a criar um espaço de pensamento, críticas, deslocamentos, negações, aspirações e tentativas, a fim de refletir sobre os meios e os fins da educação.
+
+O curso pretende elaborar o fracasso das ideias e práticas definidas como “certas”, “boas”, “corretas”, ou de qualquer outra pretensão absoluta, e legitimar as reflexões críticas sobre a própria prática a partir das condições reais do trabalho educativo em que se encontra cada participante: a situação legal, a organização escolar, as formas de integração do conhecimento e as concepções de aprendizagem por trás dos discursos e trabalhos.
+
+**OBJETIVO**: colaborar na desconstrução de práticas docentes enrijecidas e na construção de outras práticas significativas e satisfatórias.
+ 
+**PROGRAMA COMPLETO** Clique aqui!
+
+**DURAÇÃO** 18 horas
+ 
+**PERÍODO** março, abril e maio de 2022
+ 
+**PEREDIOCIDADE** 9 encontros, das 19h às 21h.
+ 
+**MODALIDADE** Presencial (caso não atinja número mínimo de participantes ou ocorra restrições sanitárias que dificultem o formato presencial, o curso pode vir a ser ministrado remota e sincronicamente, através de plataforma virtual)
+ 
+**INVESTIMENTO** 4x de R$140,00
+A matrícula será efetivada com o primeiro depósito feito até dia 08/03/2022.
+ 
+**LOCALIZAÇÃO** Jaguaré Mirim, 210, Vila Leopoldina (com vaga no local)
+
+**DOCENTE** Victor Lacerda 
+
+
+
+
