@@ -31,11 +31,12 @@ Em oficinas, vivências, discussões, visitas, você aprenderá a desenvolver pr
 
 **METODOLOGIA** única de interlocuções com profissionais que trabalham, muito mais do que assuntos escolares em si, a formação como pessoa.
 
-**QUANDO** Terças e quintas-feiras das 14h ás 17h
 
-**INÍCIO** 15 de fevereiro de 2022
+- **QUANDO** Terças e quintas-feiras das 14h ás 17h
 
-**LOCAL DOS ENCONTROS** XXXX
+- **INÍCIO** 15 de fevereiro de 2022
 
-**INVESTIMENTO MENSAL** R$980,00 
+- **LOCAL DOS ENCONTROS** XXXX
+
+- **INVESTIMENTO MENSAL** R$980,00 
 

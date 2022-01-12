@@ -19,22 +19,22 @@ O curso pretende elaborar o fracasso das ideias e práticas definidas como “ce
 
 **OBJETIVO**: colaborar na desconstrução de práticas docentes enrijecidas e na construção de outras práticas significativas e satisfatórias.
  
-**PROGRAMA COMPLETO** Clique aqui!
+- **PROGRAMA COMPLETO** Clique aqui!
 
-**DURAÇÃO** 18 horas
+- **DURAÇÃO** 18 horas
  
-**PERÍODO** março, abril e maio de 2022
+- **PERÍODO** março, abril e maio de 2022
  
-**PEREDIOCIDADE** 9 encontros, das 19h às 21h.
+- **PEREDIOCIDADE** 9 encontros, das 19h às 21h.
  
-**MODALIDADE** Presencial (caso não atinja número mínimo de participantes ou ocorra restrições sanitárias que dificultem o formato presencial, o curso pode vir a ser ministrado remota e sincronicamente, através de plataforma virtual)
+- **MODALIDADE** Presencial (caso não atinja número mínimo de participantes ou ocorra restrições sanitárias que dificultem o formato presencial, o curso pode vir a ser ministrado remota e sincronicamente, através de plataforma virtual)
  
-**INVESTIMENTO** 4x de R$140,00
+- **INVESTIMENTO** 4x de R$140,00
 A matrícula será efetivada com o primeiro depósito feito até dia 08/03/2022.
  
-**LOCALIZAÇÃO** Jaguaré Mirim, 210, Vila Leopoldina (com vaga no local)
+- **LOCALIZAÇÃO** Jaguaré Mirim, 210, Vila Leopoldina (com vaga no local)
 
-**DOCENTE** Victor Lacerda 
+- **DOCENTE** Victor Lacerda 
 
 
 
