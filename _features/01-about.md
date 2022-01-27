@@ -12,10 +12,10 @@ subheading:
 
 **MATUTA** é um campo de reflexão e investigação das diversas teorias que se relacionam com a educação na intenção de avançar e aprofundar o pensamento e a prática educativa.
 
-**MATUTA** espaço de encontro de subjetividades, de tomadas de consciência, de desenvolvimento lógico e cognitivo, de experimentação e de aquisição das diversas  do conhecimento.
+**MATUTA** espaço de encontro de subjetividades, de tomadas de consciência, de desenvolvimento lógico e cognitivo, de experimentação e de aquisição das diversas linguagens do conhecimento.
 
 **MATUTA** se dedica a descobrir as formas de aprendizagem que sejam capazes de ampliar estruturas epistemológicas, éticas, afetivas e críticas. O propósito aqui é a autoria de si.
 A partir das relações e vivências que cada pessoa estabelece com as outras dentro do laboratório e o acompanhamento e as avaliações personalizadas.
 
-**MATUTA** prepara, ancora, treina, desenvolve, instrui.
+**MATUTA** prepara, ancora, treina, desenvolve, instrui a partir das relações e vivências que cada pessoa estabelece com as outras, com o laboratório. Acompanhada e avaliada de forma personalizada.
 
