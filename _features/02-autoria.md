@@ -1,14 +1,16 @@
 ---
 id: Curso1
-name: Curso1
+name: Programas
 heading: EXPANSÃO, AUTORIA DE SI E JUVENTUDE
 subheading: 
 image: "assets/imgs/programa-expansao.svg"
 ---
 
-Matuta é um laboratório de educação, um espaço para autonomia. Um ambiente de relações, de encontro de subjetividades, de tomadas de consciência, de desenvolvimento lógico e cognitivo. 
+Projeto semestral que oferece um espaço de convivência entre jovens que, mediados, vivenciam experiências únicas de reflexão e aprendizado sobre si, sobre como entendem o mundo e sua forma de se relacionar com ele.
 
-Em oficinas, vivências, discussões, visitas, você aprenderá a desenvolver projetos individuais; reconhecer seus desejos e prioridades, organizar o próprio tempo, se compor e recompor nos contextos sociais e familiares. 
+Matuta é um laboratório de educação, um espaço para autonomia. Um ambiente de relações, de encontro de subjetividades, de tomadas de consciência.
+
+Em oficinas, vivências, discussões, visitas, o jovem aprenderá a desenvolver projetos individuais; reconhecer seus desejos e prioridades, organizar o próprio tempo, se compor e recompor nos contextos sociais e familiares. 
 
 ⠀
 
@@ -36,7 +38,8 @@ Em oficinas, vivências, discussões, visitas, você aprenderá a desenvolver pr
 
 - **INÍCIO** 15 de fevereiro de 2022
 
-- **LOCAL DOS ENCONTROS** XXXX
+- **LOCAL DOS ENCONTROS** R. Simão Álvares, 714 - Pinheiros
 
-- **INVESTIMENTO MENSAL** R$980,00 
+- **INVESTIMENTO MENSAL** R$1000,00 
 
+- **INSCRIÇÕES** <a href="mailto:matuta.edu@gmail.com"> &nbsp; matuta.edu@gmail.com </a> ou whatsapp <a href="https://wa.me/5511996785312?text=Olá,%20entro%20em%20contato%20sobre%20a%20matuta"> &nbsp; (11) 98248-9051 </a> (Juliana)

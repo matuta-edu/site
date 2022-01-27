@@ -5,8 +5,9 @@ baseurl: '/site'
 sass:
   sass_dir: /assets/_sass
   style: :compressed
-collections:
+collections:    
   - features
+  - programas
 exclude:
   - Gemfile
   - Gemfile.lock
