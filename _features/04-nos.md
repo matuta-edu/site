@@ -7,13 +7,16 @@ subheading:
 image: "assets/imgs/programa-contato.svg"
 ---
 
-Somos uma equipe formada por educadores engajados Matuta é formada, das experiências na atuação em projetos inovadores de educação, surge da prática e do encanto pelo debate, pela crítica e a busca pela criação de novas formas de se vivenciar a educação. 
+
+⠀
+
+Somos uma equipe de formação variada, em comum o encanto pela educação e o engajamento em experiências em que teoria e prática se desenvolvem juntas. Nosso encontro se deu no trabalho, na reflexão, na crítica, na busca por formas mais potentes de se vivenciar os espaços educativos.
+
 
 ⠀
 
 ⠀
 
-⠀
 
 
 ## Victor Lacerda 

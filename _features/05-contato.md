@@ -15,7 +15,7 @@ Para inscrição ou mais informações entre em contato via:
 
 ⠀
 
-<a href="mailto:matuta.edu@gmail.com"> &nbsp; matuta.edu@gmail.com<img align="left" src="assets/imgs/email-icon.svg" > Juliana
+<a href="mailto:matuta.edu@gmail.com"> &nbsp; matuta.edu@gmail.com<img align="left" src="assets/imgs/email-icon.svg" >
 
 
 

@@ -26,14 +26,14 @@ O curso pretende elaborar o fracasso das ideias e práticas definidas como “ce
 
 - **DURAÇÃO** 18 horas
  
-- **PERÍODO** março, abril e maio de 2022
+- **PERÍODO** março, abril e maio de 2022 (15/03, 22/03, 29/03, 05/04, 12/04, 19/04, 26/04, 03/05, 10/05)
  
-- **PEREDIOCIDADE** 9 encontros, das 19h às 21h.
+- **PEREDIOCIDADE** 9 encontros, às terças-feiras, das 19h às 21h.
  
 - **MODALIDADE** Presencial (caso não atinja número mínimo de participantes ou ocorra restrições sanitárias que dificultem o formato presencial, o curso pode vir a ser ministrado remota e sincronicamente, através de plataforma virtual)
  
-- **INVESTIMENTO** 3x de R$ 186,00
-A matrícula será efetivada com o primeiro depósito feito até dia 08/03/2022.
+- **INVESTIMENTO** 4x de R$ 140,00
+A matrícula será efetivada com o primeiro depósito feito até dia 08/03/2022 e as outras parcelas serão realizadas com cartão de crédito em abril.
  
  - **POLÍTICA DE BOLSAS** entrar em contato pelos nossos canais
 
