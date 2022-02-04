@@ -28,7 +28,7 @@ O curso pretende elaborar o fracasso das ideias e práticas definidas como “ce
  
 - **PERÍODO** março, abril e maio de 2022 (15/03, 22/03, 29/03, 05/04, 12/04, 19/04, 26/04, 03/05, 10/05)
  
-- **PEREDIOCIDADE** 9 encontros, às terças-feiras, das 19h às 21h.
+- **PERIODICIDADE** 9 encontros, às terças-feiras, das 19h às 21h.
  
 - **MODALIDADE** Presencial (caso não atinja número mínimo de participantes ou ocorra restrições sanitárias que dificultem o formato presencial, o curso pode vir a ser ministrado remota e sincronicamente, através de plataforma virtual)
  

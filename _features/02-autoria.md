@@ -34,9 +34,9 @@ Em oficinas, vivências, discussões, visitas, o jovem aprenderá a desenvolver 
 **METODOLOGIA** única de interlocuções com profissionais que trabalham, muito mais do que assuntos escolares em si, a formação como pessoa.
 
 
-- **QUANDO** Terças e quintas-feiras das 14h ás 17h
+- **QUANDO** Terças e quintas-feiras das 14h30 ás 17h30
 
-- **INÍCIO** 15 de fevereiro de 2022
+- **INÍCIO** 8 de março de 2022
 
 - **LOCAL DOS ENCONTROS** R. Simão Álvares, 714 - Pinheiros
 
